@@ -27,7 +27,7 @@ echo " ╩ ╚═╝╩ ╩╩  ╚═╝═╩╝  ╚═╝╩ ╩╩═╝╩
 echo "\033[1;36m           Modified by まやちゃん\n";
 echo "\033[0mThanks to https://github.com/anggaid \n";
 echo "Call hanya 3x/jam\n\n";
-echo "Nomor Target (pakai 62) : ";
+echo "Nomor Target (pakai 08) : ";
 $nomor = trim(fgets(STDIN));
 echo "Jumlah Pesan : ";
 $jumlah = trim(fgets(STDIN));
