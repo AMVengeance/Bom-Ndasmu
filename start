@@ -29,7 +29,7 @@ sleep 1
 echo -e $red"╔╗ ╔═╗╔╦╗ ╔═╗╔╦╗╔═╗"; 
 echo -e $red"╠╩╗║ ║║║║ ╚═╗║║║╚═╗"; 
 echo -e $red"╚═╝╚═╝╩ ╩ ╚═╝╩ ╩╚═╝"; 
-echo -e $green"Modified by まやちゃん";
+echo -e $green"Tools by まやちゃん";
 echo -e $white"";
 sleep 0.500
 echo "1) Bom TELKOMSEL";
